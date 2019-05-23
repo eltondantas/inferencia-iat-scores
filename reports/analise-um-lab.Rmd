@@ -157,12 +157,12 @@ grid.arrange(p1, p2, ncol = 2)
 
 ### Conclusão
 
-Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) com a matemática negativa e (média .61, desv. padrão YYY, N = 75). Homens tiveram uma associação **positiva/negativa** com a matemática, portanto **maior/menor** que a das mulheres (média .24, desv. padrão .55, N = 16). Houve portanto uma **grande/considerável/pequena** diferença entre homens e mulheres (diferença das médias -.37, 95% CI [CCC, DDD]). A partir desta amostra, estimamos que...
+Em média, as mulheres que participaram do experimento tiveram uma associação implícita (medida pelo IAT) negativa com a matemática (média .61, desv. padrão 0.41, N = 75). Os homens também tiveram uma associação negativa com a matemática (média .24, desv. padrão .55, N = 16), porém menor que a das mulheres. Houve portanto uma considerável diferença entre homens e mulheres (diferença das médias -.37, 95% CI [-.63, -.05]). A partir desta amostra (wisc.csv), estimamos que mulheres têm uma associação negativa mais forte, com uma diferença que provavelmente está entre 0.35 e 1.03 ponto na escala IAT, o suficiente para diferenciar uma associação neutra de uma muito forte contra a matemática.
 
 --- 
 *Exemplos de possíveis conclusões para completar*
 
   * mulheres têm uma associação negativa consideravelmente mais forte, com uma diferença que provavelmente está entre 0.6 e 1.0 ponto na escala IAT, o suficiente para diferenciar uma associação neutra de uma muito forte contra a matemática.
   * mulheres têm uma associação negativa mais forte, porém não é claro se essa diferença é grande, moderada ou pequena. É necessário coletar mais dados para determinar se a diferença é relevante ou negligenciável. 
-  * mulheres podem ter um associação negativa forte, pode não haver diferença entre sexos ou homens podem ter atitudes negativas um pouco mais fortes ou moderadamente mais fortes. 
+  * mulheres podem ter um associação negativa forte, pode não haver diferença entre sexos ou homens podem ter atitudes negativas um pouco mais fortes ou moderadamente mais fortes.
   * pode não haver uma diferença entre sexos, ou se ela existir, ela provavelmente é pequena em qualquer das direções. 
